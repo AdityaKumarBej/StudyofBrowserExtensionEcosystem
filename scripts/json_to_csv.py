@@ -17,7 +17,6 @@ def json_to_csv(json_file, csv_file):
         writer.writeheader()
         for row in data:
             writer.writerow(row)
-
 if __name__ == "__main__":
 
 
