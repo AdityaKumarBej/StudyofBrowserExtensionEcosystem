@@ -1,0 +1,13 @@
+github.com
+addons.mozilla.org
+avast.com
+globalprivacycontrol.org
+s-install.avcdn.net
+analytics.ff.avast.com
+analytics-stage.ff.avast.com
+shepherd.ff.avast.com
+shepherd-preview.ff.avast.com
+urlite.ff.avast.com
+w3.org
+support.avast.com
+clients2.google.com

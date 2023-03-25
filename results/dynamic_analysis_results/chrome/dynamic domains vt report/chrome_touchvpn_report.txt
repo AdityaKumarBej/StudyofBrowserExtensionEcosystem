@@ -1,0 +1,10 @@
+www.googleapis.com:safe
+accounts.google.com:malicious
+www.hsselite.com:malicious
+api.hsselite.com:malicious
+api-prod-partner-us-west-2.northghost.com:safe
+www.google-analytics.com:malicious
+s3-us-west-2.amazonaws.com:malicious
+update.googleapis.com:malicious
+edgedl.me.gvt1.com:malicious
+3

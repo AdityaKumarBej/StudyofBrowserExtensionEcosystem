@@ -1,0 +1,11 @@
+chrome.google.com
+microsoftedge.microsoft.com
+google.com
+darkreader.org
+raw.githubusercontent.com
+w3.org
+opencollective.com
+github.com
+twitter.com
+fonts.googleapis.com
+clients2.google.com

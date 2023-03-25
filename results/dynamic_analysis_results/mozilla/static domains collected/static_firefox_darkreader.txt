@@ -1,0 +1,10 @@
+addons.mozilla.org
+google.com
+darkreader.org
+raw.githubusercontent.com
+w3.org
+chrome.google.com
+opencollective.com
+github.com
+twitter.com
+fonts.googleapis.com
